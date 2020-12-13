@@ -1,3 +1,4 @@
-Code from Brainlit project in NeuroData I (Fall 2020)
-
-Prerna's original scripts: https://github.com/prernasingh11/CLARITY
+Brainlit Project <br>
+NeuroData I (Fall 2020) <br>
+Advisors: Tommy Athey and Dr. Joshua Vogelstein <br><br>
+Prerna's original cell detection scripts: https://github.com/prernasingh11/CLARITY
