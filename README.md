@@ -7,7 +7,7 @@ Prerna's original cell detection scripts: https://github.com/prernasingh11/CLARI
 Files:
   - `CNN_soma_detection.ipynb`: final project/script for testing Brainlit data on pre-trained model
   - `crossvalidation4.pt`: pre-trained model
-  - `paths.png`: list of paths for training data
+  - `paths.png`: list of paths for training data if desired (did not use)
   - `requirements.txt`: used to create python environment
   
 Folders
