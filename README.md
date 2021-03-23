@@ -9,6 +9,7 @@ Files:
   - `crossvalidation4.pt`: pre-trained model
   - `paths.png`: list of paths for training data if desired (did not use)
   - `requirements.txt`: used to create python environment
+  - `compareSubvols` : used to run the model through a set of 12x12x12 subvolumes
   
 Folders
   - `brainlit` and `cloud-volume`: exisiting packages used to pull Brain1 data from the cloud
