@@ -7,7 +7,7 @@ Created on Wed Apr 28 18:51:21 2021
 """
 
 import sys
-sys.path.append("/Users/johnduva/Desktop/Git/NeuroData/brainlit") 
+# sys.path.append("/Users/johnduva/Desktop/Git/NeuroData/brainlit") 
 
 from brainlit.utils.session import NeuroglancerSession
 # from brainlit.utils.swc import graph_to_paths
@@ -69,16 +69,3 @@ for x in range(x1, x2, 500,):
     outfile = open('coords.pickle', 'wb')
     pickle.dump(final, outfile)
     outfile.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
