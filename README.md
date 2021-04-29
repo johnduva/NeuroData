@@ -10,7 +10,9 @@ Files:
   - `paths.png`: list of paths for training data if desired (did not use)
   - `requirements.txt`: used to create python environment
   - `compareSubvols` : used to run the model through a set of 12x12x12 subvolumes
-  - `slurm1.sh` : loop through entire brain on TigerGPU, output all 12x12x12 subvolumes and their coordinates
+  - `slurm1.sh` : runs `wholeBrain.py` on TigerGPU
+  - `testenv.yml` : reproduce brainlit environment
+  - `wholeBrain.py` : loop through entire brain, output all 12x12x12 subvolumes and their coordinates
   
 Folders
   - `brainlit` and `cloud-volume`: exisiting packages used to pull Brain1 data from the cloud
